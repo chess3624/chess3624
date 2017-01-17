@@ -1,0 +1,7 @@
+contentDir: "content"
+layoutDir: "layouts"
+publishDir: "public"
+buildDrafts: false
+baseURL: "http://example.com"
+canonifyURLs: true
+title: "Hello world site"
